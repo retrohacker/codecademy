@@ -1,6 +1,6 @@
 {
   "name": "codecademy",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Screen scrapes the codecademy website to get student progress",
   "main": "codecademy.js",
   "directories": {
