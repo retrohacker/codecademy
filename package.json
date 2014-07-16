@@ -20,5 +20,13 @@
   "dependencies": {
     "cheerio": "^0.17.0",
     "scrap": "^0.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wblankenship/codecademy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wblankenship/codecademy/issues"
+  },
+  "homepage": "https://github.com/wblankenship/codecademy"
 }
