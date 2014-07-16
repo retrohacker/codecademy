@@ -5,7 +5,6 @@ var url = "http://www.codecademy.com"
 var codecademy = module.exports = {}
 codecademy.getProgress = getProgress
 function getProgress(username,course,cb) {
-  console.log("Starting request")
   scrap(url+"/"+username, function(e,$) {
     if(e) {
       if(e.message === "HTTP response code is not 200.") {
