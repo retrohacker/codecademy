@@ -1,0 +1,24 @@
+{
+  "name": "codecademy",
+  "version": "0.1.0",
+  "description": "Screen scrapes the codecademy website to get student progress",
+  "main": "codecademy.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "tape tests/*.test.js"
+  },
+  "keywords": [
+    "codecademy"
+  ],
+  "author": "Will Blankenship <william.jblankenship@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^2.13.3"
+  },
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "scrap": "^0.1.0"
+  }
+}
