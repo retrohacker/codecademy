@@ -15,10 +15,10 @@
   "author": "Will Blankenship <william.jblankenship@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "tape": "^2.13.3"
+    "tape": "^4.6.3"
   },
   "dependencies": {
-    "cheerio": "^0.17.0",
+    "cheerio": "^0.22.0",
     "scrap": "^0.1.0"
   },
   "repository": {
