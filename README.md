@@ -1,6 +1,8 @@
 Codecademy Screen Scrapper
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/retrohacker/codecademy.svg)](https://greenkeeper.io/)
+
 This is a simple tool for determining a student's progress on a codecademy tutorial.
 
 # Usage
